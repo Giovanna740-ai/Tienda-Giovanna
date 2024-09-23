@@ -65,7 +65,7 @@
 
         /*inicio navegacion*/
 .banner{
-    background-image: url(..//img/spaghetti-g947692dca_1920.jpg);
+    background-image: url(/img/spaghetti-g947692dca_1920.jpg);
     background-position: center;
     width: 70%;
     height: calc(100vh 110px);
